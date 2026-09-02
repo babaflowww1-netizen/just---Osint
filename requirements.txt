@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+sqlalchemy
+python-jose[cryptography]
+passlib[argon2]
+pydantic[email]
+reportlab
+psycopg[binary]
